@@ -1,3 +1,3 @@
 # testcoursera
 1st task coursera
-blabla
+print("First python gor coursera")
